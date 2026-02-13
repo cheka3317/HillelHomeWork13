@@ -1,4 +1,6 @@
 package app;
 
-public class Figure {
+public interface Figure {
+    double getArea();
 }
+
